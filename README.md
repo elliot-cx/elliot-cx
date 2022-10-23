@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Derfire22
-- 👀 I’m interested in developping WEB appplications with Node.JS and mobile applications using Flutter
+- 👀 I’m interested in WEB App development with Node.JS and mobile applications using Flutter
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me on Discord : Derfire#2526
 
